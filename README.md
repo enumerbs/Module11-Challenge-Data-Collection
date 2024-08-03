@@ -7,17 +7,23 @@ Data Collection Challenge
 
 # Results
 
-TBA:
-- path1
-- path2
+The *Part1_MarsNews* subfolder contains the following files:
+
+**part_1_mars_news.ipynb** (Python code and scraping results)<br>
+**mars_news_articles.json** (scraping results saved in JSON format)
+
+The *Part2_MarsWeather* subfolder contains the following files:
+TBA
+
 
 # Implementation notes
 
-TBA
+**part_1_mars_news.ipynb**
+ - Saved results in JSON format to a file, by using json.dump() from the Python json module.
 
 # References
 
 The following references were used in the development of the solution for this Challenge.
 
-## Topic 1
-- reference 1
+## Python JSON module - saving JSON to a file
+- https://sentry.io/answers/write-json-data-to-a-file-in-python/
