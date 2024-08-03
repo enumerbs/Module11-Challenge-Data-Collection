@@ -28,5 +28,9 @@ The following references were used in the development of the solution for this C
 ## Automated web scraping
 - Class notes/sample files for 'Data Collection', Monash University 'Data Analytics Boot Camp'
 
+## Pandas - DataFrame
+- astype() type conversion https://www.w3schools.com/python/pandas/ref_df_astype.asp
+- to_datetime() type conversion https://pandas.pydata.org/docs/reference/api/pandas.to_datetime.html
+
 ## Python JSON module
 - Saving JSON to a file https://sentry.io/answers/write-json-data-to-a-file-in-python/
